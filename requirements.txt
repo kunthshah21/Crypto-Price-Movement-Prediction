@@ -5,3 +5,4 @@ matplotlib
 seaborn
 scikit-learn
 tensorflow-addons
+fastapi==0.103.1
