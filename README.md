@@ -37,8 +37,6 @@ The dashboard opens at **`http://localhost:8501`** by default.
 | **Monthly** | 1‑D CNN → Deep LSTM               | Up / Down + probability                  |
 | **Yearly**  | 3‑stacked LSTMs                   | Up / Down + probability                  |
 
-*Select the desired horizon from the sidebar to view its prediction and associated confidence score.*
-
 ---
 
 ## 3  | Tools & Technologies Used
@@ -51,8 +49,6 @@ The dashboard opens at **`http://localhost:8501`** by default.
 | Deployment   | **Streamlit**         | Interactive web UI                    |
 | Environment  | **venv, pip**         | Dependency & environment management   |
 
-*(Replace or extend this list as needed.)*
-
 ---
 
 ## 4  | Repository Structure
@@ -60,9 +56,9 @@ The dashboard opens at **`http://localhost:8501`** by default.
 ```
 ├── app.py                  # Streamlit front‑end
 ├── models/
-│   ├── daily_model.h5
-│   ├── monthly_model.h5
-│   └── yearly_model.h5
+│   ├── daily_model.keras
+│   ├── monthly_model.keras
+│   └── yearly_model.keras
 ├── data/
 │   └── crypto_prices.csv
 ├── notebooks/              # Jupyter/Colab notebooks for EDA & experiments
