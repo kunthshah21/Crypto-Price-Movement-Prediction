@@ -1,4 +1,4 @@
-# Crypto Price Moevement Prediction 
+# Crypto Price Movement Prediction 
 *A Multi‑Horizon RNN‑Powered Streamlit Dashboard*  
 
 [![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-ff4b4b?logo=streamlit)](https://crypto-price-movement-prediction-kunthshah.streamlit.app)&nbsp;&nbsp;&nbsp;[![GitHub Repo](https://img.shields.io/badge/Source-GitHub-181717?logo=github)](https://github.com/kunthshah21/Crypto-Price-Movement-Prediction)
