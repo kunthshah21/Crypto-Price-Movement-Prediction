@@ -180,21 +180,17 @@ Simpler models were preferred due to minimal accuracy gains from complexity.
 
 ### 6.4 Results
 
+MCC is closeto 
+
 #### Daily Model Results
 - **Test Accuracy:** ~50%
-- **Confusion Matrix:**
-
-- **Classification Report:**
-
 
 #### Monthly Model Results
 - **Test Accuracy:** 54%
-- **Classification Report:**
-
 
 #### Yearly Model Results
 - **Test Accuracy:** ~49%
-- **Confusion Matrix:**
+
 
 
 ### 6.5 Model Analysis and Usability
