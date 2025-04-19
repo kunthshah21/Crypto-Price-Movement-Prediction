@@ -1,2 +1,2 @@
-# Crypto Price Moevement Prediction
+# Crypto Price Movement Prediction
  
